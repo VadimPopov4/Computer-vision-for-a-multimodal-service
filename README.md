@@ -1,1 +1,4 @@
-# Computer-vision-for-a-multimodal-service
+В первую очередь нужны 3 Python-библиотеки:
+
+ultralytics	- Загружает best.pt и выполняет детекцию автомобилей.
+opencv-python	- Подключение к камерам, получение кадров, обрезка ROI и сохранение изображений
